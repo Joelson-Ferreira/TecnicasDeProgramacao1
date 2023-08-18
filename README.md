@@ -11,19 +11,19 @@
 </p>
 
 
-**Descrição**<br>
+**Descrição:**<br>
 
 Este projeto faz parte do processo avaliativo do módulo de "Técnicas de programação I" do programa "Santander Coders 2023 - Data Science" e tem como finalidade aplicar as técnicas aprendidas em aula para criar uma análise exploratória sobre um conjunto de dados.
 
   
 
-**Objetivo**<br>
+**Objetivo:**<br>
 
 Realizar uma análise exploratória de dados utilizando datasets relacionados ao Brasil. Estruturar a análise criando um storytelling: Uma história contada com informações, gráficos, imagens e medidas estatísticas, associando dados a fatos em uma linha do tempo. Sinta-se livre para incluir quantas bases considerar necessário e filtrar as informações mais relevantes para a história.
 
   
 
-**Dados**<br>
+**Dados:**<br>
 
 O dataset escolhido para realizar a análise exploratória foi AAAA. Esta base de dados traz informações sobre BBBB e pode ser acessada através do [link](https://dados.gov.br/dados/conjuntos-dados/monitoramento-da-biodiversidade-em-unidades-de-conservacao-federais).
 
