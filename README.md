@@ -33,7 +33,7 @@ O dataset escolhido para realizar a análise exploratória foi AAAA. Esta base d
 - Joelson Ferreira - <a href="https://www.linkedin.com/in/joelsons/" target="_blank">LinkedIn</a>
 - Paula Capuano - <a href="https://www.linkedin.com/in/paulacapuano/" target="_blank">LinkedIn</a>
 - Vagner Martins - <a href="https://www.linkedin.com/in/vagner-martins/" target="_blank">LinkedIn</a>
-- Von Sohsten - <a href="https://www.linkedin.com/in/joelsons/" target="_blank">LinkedIn</a>
+- Vinícius Lamas von Sohsten - <a href="www.linkedin.com/in/vinicius-sohsten" target="_blank">LinkedIn</a>
   
 **Professor:**<br>
 
