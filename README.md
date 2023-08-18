@@ -41,12 +41,6 @@ O dataset escolhido para realizar a análise exploratória foi AAAA. Esta base d
 - Jorge Chamby-Diaz - [LinkedIn](https://www.linkedin.com/in/jchambyd/)
 
     
-**Informações adicionais:**<br>
-
-Entrega será até a segunda-feira (31/07), antes da aula.
-Utilizar apenas as estruturas vistas em aula (Não usar Dataframe).
-Aprensentação em 10 min.
-
 **Pendências:**<br>
 
 Perguntar para o professor como podemos criar novas linhas de espécies pelo pandas, de acordo com a quantidade de UCs em que ela aparece
