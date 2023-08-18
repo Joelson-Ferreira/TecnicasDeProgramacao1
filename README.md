@@ -36,8 +36,8 @@ O dataset escolhido para realizar a análise exploratória foi AAAA. Esta base d
 - Von Sohsten - <a href="https://www.linkedin.com/in/joelsons/" target="_blank">LinkedIn</a>
   
 **Professor:**<br>
-- Jorge Chamby-Diaz - <a href="https://www.linkedin.com/in/jchambyd/" target="_blank">LinkedIn</a>
 
+- Jorge Chamby-Diaz - [LinkedIn](https://www.linkedin.com/in/jchambyd/)
     
 **Pendências:**<br>
 
