@@ -52,7 +52,7 @@ Além disso, foi utilizado um dataset complementar que traz as informações de 
 - Joelson Ferreira - <a href="https://www.linkedin.com/in/joelsons/" target="_blank">LinkedIn</a>
 - Paula Capuano - <a href="https://www.linkedin.com/in/paulacapuano/" target="_blank">LinkedIn</a>
 - Vagner Martins - <a href="https://www.linkedin.com/in/vagner-martins/" target="_blank">LinkedIn</a>
-- Vinícius Lamas von Sohsten - <a href="https://www.linkedin.com/in/vinicius-sohsten/" target="_blank">LinkedIn</a><br>
+- Vinícius Sohsten - <a href="https://www.linkedin.com/in/vinicius-sohsten/" target="_blank">LinkedIn</a><br>
   
 **Professor:**<br>
 
