@@ -29,7 +29,7 @@ Fonte: [https://salve.icmbio.gov.br/#/metodos-de-avaliacao](https://salve.icmbio
 
 **Dados:**<br>
 
-O dataset escolhido para realizar a análise exploratória foi a base de dados de Espécies da Fauna em Unidades de Conservação Federais. Esta base de dados traz informações sobre as e pode ser acessada através do [link](https://dados.gov.br/dados/conjuntos-dados/monitoramento-da-biodiversidade-em-unidades-de-conservacao-federais).
+O dataset escolhido para realizar a análise exploratória foi a base de dados de Espécies da Fauna em Unidades de Conservação Federais. Esta base de dados pode ser acessada através do [link](https://dados.gov.br/dados/conjuntos-dados/monitoramento-da-biodiversidade-em-unidades-de-conservacao-federais).
 
 Além disso, foi utilizado um dataset complementar que traz as informações de desmatamento em Unidades de Conservação Federais. Esta base pode ser acessada em [link](https://dados.gov.br/dados/conjuntos-dados/incendios-em-unidades-de-conservacao-federais).<br>
 
