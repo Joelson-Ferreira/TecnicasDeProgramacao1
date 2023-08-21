@@ -22,22 +22,26 @@ Realizar uma análise exploratória de dados utilizando datasets relacionados ao
 
 O presente projeto busca entender o comportamento das espécies em Unidades de Conservação incluídas na lista de risco de extinção. Para isso, foram realizadas análises a nível de bioma, região, estado e grupo taxonômico.
 
-As categorias de espécies são classificadas da seguinte maneira
+As categorias de espécies são classificadas da seguinte maneira:
   <img width="720" height="420" src="https://salve.icmbio.gov.br/img/metodos-de-avaliacao.svg">
 
-Fonte:[https://salve.icmbio.gov.br/#/metodos-de-avaliacao](https://salve.icmbio.gov.br/#/metodos-de-avaliacao)
+Fonte: [https://salve.icmbio.gov.br/#/metodos-de-avaliacao](https://salve.icmbio.gov.br/#/metodos-de-avaliacao)
 
 **Dados:**<br>
 
 O dataset escolhido para realizar a análise exploratória foi a base de dados de Espécies da Fauna em Unidades de Conservação Federais. Esta base de dados traz informações sobre as e pode ser acessada através do [link](https://dados.gov.br/dados/conjuntos-dados/monitoramento-da-biodiversidade-em-unidades-de-conservacao-federais).
 
-Além disso, foi utilizado um dataset complementar que traz as informações de desmatamento em Unidades de Conservação Federais. Esta base pode ser acessada em [link](https://dados.gov.br/dados/conjuntos-dados/incendios-em-unidades-de-conservacao-federais)
+Além disso, foi utilizado um dataset complementar que traz as informações de desmatamento em Unidades de Conservação Federais. Esta base pode ser acessada em [link](https://dados.gov.br/dados/conjuntos-dados/incendios-em-unidades-de-conservacao-federais).
 
 **Conclusões**<br>
 
-- O bioma mais desmatado do Brasil, a Mata Atlântica, não possui monitoramento em suas Unidades de Conservação
-- Não há espécies extintas em Unidades de Conservação Federais
-- A quantidade de espécies ameaçadas de extinção presentes em unidades de conservação ambiental é inferior, se compoaradas às não presentes em áreas protegidas
+- O bioma mais desmatado do Brasil, a Mata Atlântica, não possui monitoramento em suas Unidades de Conservação. Em consonância, o bioma Mata Atlântica é o que apresenta mais espécies inlcuídas na lista de risco de extinção, assim como apresenta o maior número de espécies extintas;
+- Não há espécies extintas em Unidades de Conservação Federais;
+- A quantidade de espécies ameaçadas de extinção presentes em unidades de conservação ambiental é inferior, se compoaradas às não presentes em áreas protegidas;
+- As maiores vozes de espécies em risco são: peixes continentais, invertebrados terrestres e aves. Em contrapartida, as espécies menos presentes são: mamíferos aquáticos, invertebrados marinhos e anfíbios;
+- O grupo com mais espécies extintas é o das aves;
+- Os estados que mais apresentam espécies em risco são: Minas Gerais, Bahia e São Paulo, este último com o maior número de espécies extintas. Analogamente, sudeste e nordeste são as regiões mais significativas em termos de espécies ameaçadas.
+
 
 **Componentes:**<br>
 
@@ -50,7 +54,5 @@ Além disso, foi utilizado um dataset complementar que traz as informações de 
 **Professor:**<br>
 
 - Jorge Chamby-Diaz - [LinkedIn](https://www.linkedin.com/in/jchambyd/)
-    
-**Pendências:**<br>
 
 
