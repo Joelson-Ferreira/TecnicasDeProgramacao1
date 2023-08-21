@@ -40,7 +40,7 @@ Além disso, foi utilizado um dataset complementar que traz as informações de 
 - O bioma mais desmatado do Brasil, a Mata Atlântica, não possui monitoramento em suas Unidades de Conservação. Em consonância, o bioma Mata Atlântica é o que apresenta mais espécies inlcuídas na lista de risco de extinção, assim como apresenta o maior número de espécies extintas;
 - Não há espécies extintas em Unidades de Conservação Federais;
 - A quantidade de espécies ameaçadas de extinção presentes em unidades de conservação ambiental é inferior, se compoaradas às não presentes em áreas protegidas;
-- As maiores vozes de espécies em risco são: peixes continentais, invertebrados terrestres e aves. Em contrapartida, as espécies menos presentes são: mamíferos aquáticos, invertebrados marinhos e anfíbios;
+- Os grupos mais significativos de espécies em risco são: peixes continentais, invertebrados terrestres e aves. Em contrapartida, os grupos menos presentes são: mamíferos aquáticos, invertebrados marinhos e anfíbios;
 - O grupo com mais espécies extintas é o das aves;
 - Os estados que mais apresentam espécies em risco são: Minas Gerais, Bahia e São Paulo, este último com o maior número de espécies extintas. Analogamente, sudeste e nordeste são as regiões mais significativas em termos de espécies ameaçadas.<br>
 
