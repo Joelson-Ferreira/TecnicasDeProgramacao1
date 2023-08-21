@@ -12,9 +12,7 @@
 
 **Descrição:**<br>
 
-Este projeto faz parte do processo avaliativo do módulo de "Técnicas de programação I" do programa "Santander Coders 2023 - Data Science" e tem como finalidade aplicar as técnicas aprendidas em aula para criar uma análise exploratória sobre um conjunto de dados.
-
-<br>  
+Este projeto faz parte do processo avaliativo do módulo de "Técnicas de programação I" do programa "Santander Coders 2023 - Data Science" e tem como finalidade aplicar as técnicas aprendidas em aula para criar uma análise exploratória sobre um conjunto de dados.<br>  
 
 **Objetivo:**<br>
 
@@ -25,17 +23,17 @@ O presente projeto busca entender o comportamento das espécies em Unidades de C
 As categorias de espécies são classificadas da seguinte maneira:
   <img width="720" height="420" src="https://salve.icmbio.gov.br/img/metodos-de-avaliacao.svg">
 
-Fonte: [https://salve.icmbio.gov.br/#/metodos-de-avaliacao](https://salve.icmbio.gov.br/#/metodos-de-avaliacao)
+Fonte: [https://salve.icmbio.gov.br/#/metodos-de-avaliacao](https://salve.icmbio.gov.br/#/metodos-de-avaliacao)<br>
 
-<br>
+
 
 **Dados:**<br>
 
 O dataset escolhido para realizar a análise exploratória foi a base de dados de Espécies da Fauna em Unidades de Conservação Federais. Esta base de dados traz informações sobre as e pode ser acessada através do [link](https://dados.gov.br/dados/conjuntos-dados/monitoramento-da-biodiversidade-em-unidades-de-conservacao-federais).
 
-Além disso, foi utilizado um dataset complementar que traz as informações de desmatamento em Unidades de Conservação Federais. Esta base pode ser acessada em [link](https://dados.gov.br/dados/conjuntos-dados/incendios-em-unidades-de-conservacao-federais).
+Além disso, foi utilizado um dataset complementar que traz as informações de desmatamento em Unidades de Conservação Federais. Esta base pode ser acessada em [link](https://dados.gov.br/dados/conjuntos-dados/incendios-em-unidades-de-conservacao-federais).<br>
 
-<br>
+
 
 **Conclusões**<br>
 
@@ -44,9 +42,9 @@ Além disso, foi utilizado um dataset complementar que traz as informações de 
 - A quantidade de espécies ameaçadas de extinção presentes em unidades de conservação ambiental é inferior, se compoaradas às não presentes em áreas protegidas;
 - As maiores vozes de espécies em risco são: peixes continentais, invertebrados terrestres e aves. Em contrapartida, as espécies menos presentes são: mamíferos aquáticos, invertebrados marinhos e anfíbios;
 - O grupo com mais espécies extintas é o das aves;
-- Os estados que mais apresentam espécies em risco são: Minas Gerais, Bahia e São Paulo, este último com o maior número de espécies extintas. Analogamente, sudeste e nordeste são as regiões mais significativas em termos de espécies ameaçadas.
+- Os estados que mais apresentam espécies em risco são: Minas Gerais, Bahia e São Paulo, este último com o maior número de espécies extintas. Analogamente, sudeste e nordeste são as regiões mais significativas em termos de espécies ameaçadas.<br>
 
-<br>
+
 
 **Componentes:**<br>
 
@@ -54,7 +52,7 @@ Além disso, foi utilizado um dataset complementar que traz as informações de 
 - Joelson Ferreira - <a href="https://www.linkedin.com/in/joelsons/" target="_blank">LinkedIn</a>
 - Paula Capuano - <a href="https://www.linkedin.com/in/paulacapuano/" target="_blank">LinkedIn</a>
 - Vagner Martins - <a href="https://www.linkedin.com/in/vagner-martins/" target="_blank">LinkedIn</a>
-- Vinícius Lamas von Sohsten - <a href="https://www.linkedin.com/in/vinicius-sohsten/" target="_blank">LinkedIn</a>
+- Vinícius Lamas von Sohsten - <a href="https://www.linkedin.com/in/vinicius-sohsten/" target="_blank">LinkedIn</a><br>
   
 **Professor:**<br>
 
