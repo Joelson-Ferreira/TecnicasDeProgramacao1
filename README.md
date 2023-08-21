@@ -18,14 +18,28 @@ Este projeto faz parte do processo avaliativo do módulo de "Técnicas de progra
 
 **Objetivo:**<br>
 
-Realizar uma análise exploratória de dados utilizando datasets relacionados ao Brasil. Estruturar a análise criando um storytelling: Uma história contada com informações, gráficos, imagens e medidas estatísticas, associando dados a fatos em uma linha do tempo. Sinta-se livre para incluir quantas bases considerar necessário e filtrar as informações mais relevantes para a história.
+Realizar uma análise exploratória de dados utilizando datasets relacionados ao Brasil. Estruturar a análise criando um storytelling: Uma história contada com informações, gráficos, imagens e medidas estatísticas, associando dados a fatos.
+
+O presente projeto busca entender o comportamento das espécies em Unidades de Conservação incluídas na lista de risco de extinção. Para isso, foram realizadas análises a nível de bioma, região, estado e grupo taxonômico.
+
+As categorias de espécies são classificadas da seguinte maneira
+<p align="center">
+  <img width="720" height="420" src="https://salve.icmbio.gov.br/img/metodos-de-avaliacao.svg">
+</p>
 
   
 
 **Dados:**<br>
 
-O dataset escolhido para realizar a análise exploratória foi AAAA. Esta base de dados traz informações sobre BBBB e pode ser acessada através do [link](https://dados.gov.br/dados/conjuntos-dados/monitoramento-da-biodiversidade-em-unidades-de-conservacao-federais).
+O dataset escolhido para realizar a análise exploratória foi a base de dados de Espécies da Fauna em Unidades de Conservação Federais. Esta base de dados traz informações sobre as e pode ser acessada através do [link](https://dados.gov.br/dados/conjuntos-dados/monitoramento-da-biodiversidade-em-unidades-de-conservacao-federais).
 
+Além disso, foi utilizado um dataset complementar que traz as informações de desmatamento em Unidades de Conservação Federais. Esta base pode ser acessada em [link](https://dados.gov.br/dados/conjuntos-dados/incendios-em-unidades-de-conservacao-federais)
+
+**Conclusões**<br>
+
+- O bioma mais desmatado do Brasil, a Mata Atlântica, não possui monitoramento em suas Unidades de Conservação
+- Não há espécies extintas em Unidades de Conservação Federais
+- A quantidade de espécies ameaçadas de extinção presentes em unidades de conservação ambiental é inferior, se compoaradas às não presentes em áreas protegidas
 
 **Componentes:**<br>
 
@@ -41,6 +55,4 @@ O dataset escolhido para realizar a análise exploratória foi AAAA. Esta base d
     
 **Pendências:**<br>
 
-Perguntar para o professor como podemos criar novas linhas de espécies pelo pandas, de acordo com a quantidade de UCs em que ela aparece
-Analisar com base na base de dados de espécies ameaçadas e utilizar os dados de UCs como uma análise extra
 
