@@ -23,11 +23,11 @@ Realizar uma análise exploratória de dados utilizando datasets relacionados ao
 O presente projeto busca entender o comportamento das espécies em Unidades de Conservação incluídas na lista de risco de extinção. Para isso, foram realizadas análises a nível de bioma, região, estado e grupo taxonômico.
 
 As categorias de espécies são classificadas da seguinte maneira
-<p align="center">
+<p align="left">
   <img width="720" height="420" src="https://salve.icmbio.gov.br/img/metodos-de-avaliacao.svg">
 </p>
 
-  
+[Fonte](https://salve.icmbio.gov.br/#/metodos-de-avaliacao)
 
 **Dados:**<br>
 
